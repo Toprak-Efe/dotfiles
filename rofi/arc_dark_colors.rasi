@@ -1,0 +1,35 @@
+    
+/*******************************************************
+ * ROFI Arc Dark colors for EndeavourOS
+ * Maintainer: joekamprad <joekamprad@endeavouros.com>
+ *******************************************************/
+* {
+    selected-normal-foreground:  #dadbd6;  /* Using brights[7] as closest to your current white */
+    foreground:                  #c6c5bf;  /* Using ansi[7] which is close to your current foreground */
+    normal-foreground:           @foreground;
+    alternate-normal-background: #070303;  /* Using brights[0] for dark background with slight blue */
+    red:                         #e64444;  /* Using ansi[1] for red */
+    selected-urgent-foreground:  #dadbd6;  /* Using brights[7] again */
+    blue:                        #737174;  /* Using ansi[4] as replacement for blue */
+    urgent-foreground:           #ff8e8e;  /* Using brights[1] for urgent red */
+    alternate-urgent-background: #dd4444;  /* Using ansi[0] for dark background */
+    active-foreground:           #a3a3a6;  /* Using brights[6] for active items */
+    lightbg:                     #dadbd6;  /* Using brights[7] for light background */
+    selected-active-foreground:  #dadbd6;  /* Using brights[7] again */
+    alternate-active-background: #dadbd6;  /* Using brights[0] again */
+    background:                  #070303;  /* Using ansi[0] for main background */
+    alternate-normal-foreground: @foreground;
+    normal-background:           @background;
+    lightfg:                     #919495;  /* Using brights[4] for light foreground */
+    selected-normal-background:  #dd4444;  /* Using ansi[4] for selection */
+    border-color:                #62605f;  /* Using ansi[6] for borders */
+    spacing:                     2;
+    separatorcolor:              #1d1b1e;  /* Using ansi[0] */
+    urgent-background:           #dd4444;  /* Using ansi[0] */
+    selected-urgent-background:  #e64444;  /* Using ansi[1] */
+    alternate-urgent-foreground: @urgent-foreground;
+    background-color:            rgba(0, 0, 0, 0%);  /* Keeping transparent */
+    alternate-active-foreground: @active-foreground;
+    active-background:           #dd4444;  /* Using ansi[0] */
+    selected-active-background:  #dd4444;  /* Using ansi[4] */
+}

@@ -1,4 +1,5 @@
 -- Settings
+vim.o.exrc = false
 vim.o.tabstop=4
 vim.o.softtabstop=4
 vim.o.shiftwidth=4
@@ -17,6 +18,7 @@ vim.opt.termguicolors = true
 
 -- Keybinds
 vim.g.mapleader = " "
+vim.api.nvim_set_keymap("n", "<leader>gp", ":!update.sh", {})
 
 -- Effects
 vim.api.nvim_create_autocmd("TextYankPost", {
@@ -39,3 +41,4 @@ vim.diagnostic.config({
         },
     }
 })
+

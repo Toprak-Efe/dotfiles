@@ -20,9 +20,14 @@ return {
     },
     {
         "folke/noice.nvim",
-        event = "VeryLazy",
         opts = {
-            -- add any options here
+            cmdline = {
+                enabled = true
+            },
+            routes = {
+                view = "notify",
+                filter = { event = "msg_showmode" },
+            }
         },
         dependencies = {
             "MunifTanjim/nui.nvim",

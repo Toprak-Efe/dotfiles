@@ -1,0 +1,56 @@
+{
+    "layer": "bottom",
+    "position": "bottom",
+    "height": 40,
+
+    "modules-left": [
+        "network"
+    ],
+
+    "modules-center": [
+        "hyprland/workspaces"
+    ],
+
+    "modules-right": [
+        "pulseaudio",
+        "clock"
+    ],
+
+    "clock": {
+        "format": "{:%H:%M - %d.%m.%Y}",
+        "tooltip": false,
+    },
+
+    "hyprland/workspaces": {
+        "format":  " {name}:{icon} ",
+        "format-icons": {
+            "1": "",
+			"2": "",
+			"3": "",
+			"4": "",
+			"active": "",
+			"default": ""
+        },
+        "persistent-workspaces": {
+      		"eDP-1": [1, 2, 3, 4]
+    	}
+    },
+    
+    "network": {
+        "interface": "wlan0",
+        "format": "{ifname}",
+        "format-wifi": "{essid} : {signaldBm}dBm",
+    },
+
+    "pulseaudio": {
+        "scroll-step": 5,
+        "max-volume": 150,
+        "format": "󰕾 {volume:03}%",
+        "format-bluetooth": "󰂯 {volume:03}%",
+        "nospacing": 1,
+        "on-click": "pavucontrol",
+        "tooltip": false
+    }
+
+}
+
