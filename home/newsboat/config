@@ -1,0 +1,11 @@
+browser "firefox-developer-edition %u"
+
+auto-reload yes
+
+color background red default
+color listnormal_unread cyan default
+color listfocus yellow default
+color listfocus_unread yellow default
+color info white default
+
+reload-threads 2
