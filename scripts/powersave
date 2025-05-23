@@ -1,0 +1,5 @@
+#!/usr/bin/sh
+
+sudo /usr/bin/nvidia-smi --lock-gpu-clocks=0,500
+sudo /usr/bin/cpupower frequency-set -u 1.0G
+
