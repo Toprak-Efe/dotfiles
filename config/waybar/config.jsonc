@@ -1,14 +1,17 @@
 {
     "layer": "bottom",
     "position": "bottom",
-    "height": 40,
+    "height": 24,
 
     "modules-left": [
-        "network"
+        "network",
+        "hyprland/window"
     ],
 
     "modules-center": [
-        "hyprland/workspaces"
+        "hyprland/workspaces#wleft",
+        "custom/unconscious",
+        "hyprland/workspaces#wright",
     ],
 
     "modules-right": [
@@ -17,39 +20,79 @@
     ],
 
     "clock": {
-        "format": "{:%H:%M - %d.%m.%Y}",
+        "format": "[ {:%H:%M}]",
         "tooltip": false,
     },
 
-    "hyprland/workspaces": {
-        "format":  " {name}:{icon} ",
+    "hyprland/window": {
+        "format": "{initialTitle}",
+        "rewrite": {
+            "(.*) — Mozilla Firefox": "Firefox",
+            "(.*) — Firefox Developer Edition": "Firefox",
+        },
+        "separate-outputs": true,
+        "icon": true,
+        "icon-size": 14,
+    },
+
+    "hyprland/workspaces#wleft": {
+        "ignore-workspaces": ["3", "4"],
+        "format":  "[{name}:{icon}]",
         "format-icons": {
             "1": "",
 			"2": "",
+			"active": "",
+			"default": ""
+        },
+        "on-click": "activate",
+        "persistent-workspaces": {
+      	    "1": [],
+      	    "2": [],
+    	}
+    },
+    
+    "hyprland/workspaces#wright": {
+        "ignore-workspaces": ["1", "2"],
+        "format":  "[{name}:{icon}]",
+        "format-icons": {
 			"3": "",
 			"4": "",
 			"active": "",
-			"default": ""
+			"default": ""
         },
+        "on-click": "activate",
         "persistent-workspaces": {
-      		"eDP-1": [1, 2, 3, 4]
+      		"3": [],
+      		"4": [],
     	}
     },
     
     "network": {
         "interface": "wlan0",
         "format": "{ifname}",
-        "format-wifi": "{essid} : {signaldBm}dBm",
+        "format-wifi": "[󰖩 {essid}]",
+        "format-eth": "[󰈀 {essid}]",
+        "format-disconnected": "[ Disconnected]",
     },
 
     "pulseaudio": {
         "scroll-step": 5,
         "max-volume": 150,
-        "format": "󰕾 {volume:03}%",
-        "format-bluetooth": "󰂯 {volume:03}%",
+        "format": "[󰕾 {volume:03}%]",
+        "format-muted": "[󰝟 Mute]",
+        "format-bluetooth": "[󰂯 {volume:03}%]",
         "nospacing": 1,
-        "on-click": "pavucontrol",
         "tooltip": false
+    },
+
+    "custom/unconscious": {
+        "format": "[{text}]", 
+        "exec": "$HOME/.config/waybar/scripts/unconscious.sh 2> /dev/null",
+        "on-click": "$HOME/.config/waybar/scripts/unconscious.sh toggle 2>/dev/null && pkill -RTMIN+8 waybar",
+        "return-type": "json",
+        "interval": "once",
+        "tooltip": false,
+        "signal": 8
     }
 
 }

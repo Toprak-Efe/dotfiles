@@ -5,7 +5,7 @@
 
 * {
     border: none;
-    border-radius: 2px;
+    border-radius: 0px;
     font-family: "JetBrainsMono Nerd Font Mono";
     font-size: 14px;
     font-weight: 900;
@@ -19,26 +19,15 @@ window#waybar {
 }
 
 #clock {
-    margin: 6px 6px 6px 6px;
-    border: 2px solid @border;
     padding: 2px 8px;
 }
 
 #network {
-    margin: 6px 6px 6px 6px;
-    border: 2px solid @border;
     padding: 2px 8px;
 }
 
 #pulseaudio {
-    margin: 6px 6px 6px 6px;
-    border: 2px solid @border;
     padding: 2px 8px;
-}
-
-#workspaces {
-    margin: 6px 12px 6px 12px;
-    border: 2px solid @border;
 }
 
 button:hover {
