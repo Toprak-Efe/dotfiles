@@ -1,0 +1,438 @@
+[2025-06-02 10:36:21.019] [info]  Checking for update
+[2025-06-02 10:36:21.022] [info]  Checking for update
+[2025-06-02 10:36:21.029] [info]  Generated new staging user ID: 3fcb5ea0-aace-5fb0-890d-f22e9d791d56
+[2025-06-02 10:36:21.120] [info]  Found version 0.46.8 (url: Anytype-0.46.8.AppImage, anytype_0.46.8_amd64.deb, anytype_0.46.8_amd64.deb, anytype_0.46.8_amd64.deb, anytype-0.46.8.x86_64.rpm, anytype-0.46.8.x86_64.rpm, anytype-0.46.8.x86_64.rpm)
+[2025-06-02 10:36:21.120] [info]  Update available: {
+   "version": "0.46.8",
+   "files": [
+      {
+         "url": "Anytype-0.46.8.AppImage",
+         "sha512": "F++IQA/+GWV9EFaZV7JiT7OITouvthshhUtto+4E/bKspSubt+RJnn2GNZsg4ZU+d0OqTlPxuiDUpQM7mHCm3w==",
+         "size": 227184575,
+         "blockMapSize": 237523
+      },
+      {
+         "url": "anytype_0.46.8_amd64.deb",
+         "sha512": "/spszv94lF4xp0f4LPdED9KPG8HolgKBCUkeVULky/3zjspT7tWWq1bBmYqh5rT3fS8PStP4yJsGlejQ7Pr94w==",
+         "size": 169133696
+      },
+      {
+         "url": "anytype_0.46.8_amd64.deb",
+         "sha512": "/spszv94lF4xp0f4LPdED9KPG8HolgKBCUkeVULky/3zjspT7tWWq1bBmYqh5rT3fS8PStP4yJsGlejQ7Pr94w==",
+         "size": 169133696
+      },
+      {
+         "url": "anytype_0.46.8_amd64.deb",
+         "sha512": "/spszv94lF4xp0f4LPdED9KPG8HolgKBCUkeVULky/3zjspT7tWWq1bBmYqh5rT3fS8PStP4yJsGlejQ7Pr94w==",
+         "size": 169133696
+      },
+      {
+         "url": "anytype-0.46.8.x86_64.rpm",
+         "sha512": "JoztQzsAKrtPFvkOJcQP3fM2eGBuOSJJf2YERlP915tWoKy90zHFDgpqFp3/dib8UqqQFEQ9PZrf2TsLiuZ1kQ==",
+         "size": 169447749
+      },
+      {
+         "url": "anytype-0.46.8.x86_64.rpm",
+         "sha512": "JoztQzsAKrtPFvkOJcQP3fM2eGBuOSJJf2YERlP915tWoKy90zHFDgpqFp3/dib8UqqQFEQ9PZrf2TsLiuZ1kQ==",
+         "size": 169447749
+      },
+      {
+         "url": "anytype-0.46.8.x86_64.rpm",
+         "sha512": "JoztQzsAKrtPFvkOJcQP3fM2eGBuOSJJf2YERlP915tWoKy90zHFDgpqFp3/dib8UqqQFEQ9PZrf2TsLiuZ1kQ==",
+         "size": 169447749
+      }
+   ],
+   "path": "Anytype-0.46.8.AppImage",
+   "sha512": "F++IQA/+GWV9EFaZV7JiT7OITouvthshhUtto+4E/bKspSubt+RJnn2GNZsg4ZU+d0OqTlPxuiDUpQM7mHCm3w==",
+   "releaseDate": "2025-05-27T17:42:08.952Z"
+}
+[2025-06-02 10:36:21.121] [info]  Downloading update from Anytype-0.46.8.AppImage, anytype_0.46.8_amd64.deb, anytype_0.46.8_amd64.deb, anytype_0.46.8_amd64.deb, anytype-0.46.8.x86_64.rpm, anytype-0.46.8.x86_64.rpm, anytype-0.46.8.x86_64.rpm
+[2025-06-02 10:36:21.122] [debug] updater cache dir: /home/toprak/.cache/anytype-updater
+[2025-06-02 10:36:21.123] [debug] checkForUpdatesAndNotify called, downloadPromise is null
+[2025-06-02 10:36:21.239] [info]  File has 2939 changed blocks
+[2025-06-02 10:36:21.239] [debug] [
+  {
+    "kind": 0,
+    "start": 0,
+    "end": 159006
+  },
+  {
+    "kind": 1,
+    "start": 159006,
+    "end": 191774
+  },
+  {
+    "kind": 0,
+    "start": 191774,
+    "end": 82585024
+  },
+  {
+    "kind": 1,
+    "start": 82585024,
+    "end": 82611547
+  },
+  {
+    "kind": 0,
+    "start": 82611546,
+    "end": 105189037
+  },
+  {
+    "kind": 1,
+    "start": 105189038,
+    "end": 105255629
+  },
+  {
+    "kind": 0,
+    "start": 105255645,
+    "end": 105545002
+  },
+  {
+    "kind": 1,
+    "start": 105544986,
+    "end": 105565915
+  },
+  {
+    "kind": 0,
+    "start": 105565931,
+    "end": 105633601
+  },
+  {
+    "kind": 1,
+    "start": 105633585,
+    "end": 105712879
+  },
+  {
+    "kind": 0,
+    "start": 105712894,
+    "end": 109191138
+  },
+  {
+    "kind": 1,
+    "start": 109191123,
+    "end": 130214730
+  },
+  {
+    "kind": 0,
+    "start": 130206833,
+    "end": 131990244
+  },
+  {
+    "kind": 1,
+    "start": 131998141,
+    "end": 141809942
+  },
+  {
+    "kind": 0,
+    "start": 141798956,
+    "end": 141807818
+  },
+  {
+    "kind": 1,
+    "start": 141818804,
+    "end": 142963471
+  },
+  {
+    "kind": 0,
+    "start": 142919384,
+    "end": 143138221
+  },
+  {
+    "kind": 1,
+    "start": 143182308,
+    "end": 168135080
+  },
+  {
+    "kind": 0,
+    "start": 168075782,
+    "end": 210416988
+  },
+  {
+    "kind": 1,
+    "start": 210476286,
+    "end": 213549884
+  },
+  {
+    "kind": 0,
+    "start": 213490722,
+    "end": 213523490
+  },
+  {
+    "kind": 1,
+    "start": 213582652,
+    "end": 214317389
+  },
+  {
+    "kind": 0,
+    "start": 214261778,
+    "end": 220013037
+  },
+  {
+    "kind": 1,
+    "start": 220068648,
+    "end": 220087256
+  },
+  {
+    "kind": 0,
+    "start": 220031644,
+    "end": 226770313
+  },
+  {
+    "kind": 1,
+    "start": 226825925,
+    "end": 226947048
+  }
+]
+[2025-06-02 10:36:21.278] [info]  Full: 221,859.94 KB, To download: 59,674.82 KB (27%)
+[2025-06-02 10:36:21.309] [error] Cannot download differentially, fallback to full download: Error: Content-Type "multipart/byteranges" is expected, but got "binary/octet-stream"
+    at ClientRequest.<anonymous> (/tmp/.mount_anytypuxaowT/resources/app.asar/node_modules/electron-updater/out/differentialDownloader/multipleRangeDownloader.js:80:20)
+    at ClientRequest.emit (node:events:518:28)
+    at SimpleURLLoaderWrapper.<anonymous> (node:electron/js2c/browser_init:2:123231)
+    at SimpleURLLoaderWrapper.emit (node:events:518:28)
+[2025-06-02 10:36:22.352] [info]  Download speed: 27262976 - Downloaded: 12.0003640211929% (27262976/227184575)
+[2025-06-02 10:36:23.354] [info]  Download speed: 27978557 - Downloaded: 24.642998759929014% (55985092/227184575)
+[2025-06-02 10:36:24.353] [info]  Download speed: 27622823 - Downloaded: 36.48843368877486% (82896093/227184575)
+[2025-06-02 10:36:25.353] [info]  Download speed: 27576746 - Downloaded: 48.566043271203604% (110334559/227184575)
+[2025-06-02 10:36:26.356] [info]  Download speed: 26722667 - Downloaded: 58.85972936322812% (133720226/227184575)
+[2025-06-02 10:36:27.359] [info]  Download speed: 25994781 - Downloaded: 68.73294412703855% (156150647/227184575)
+[2025-06-02 10:36:28.359] [info]  Download speed: 25278396 - Downloaded: 77.96555906139314% (177125724/227184575)
+[2025-06-02 10:36:29.361] [info]  Download speed: 24905928 - Downloaded: 87.80154814647958% (199471574/227184575)
+[2025-06-02 10:36:30.361] [info]  Download speed: 24838584 - Downloaded: 98.49735616953748% (223770800/227184575)
+[2025-06-02 10:36:30.501] [info]  Download speed: 24831629 - Downloaded: 100% (227184575/227184575)
+[2025-06-02 10:36:30.603] [info]  New version 0.46.8 has been downloaded to /home/toprak/.cache/anytype-updater/pending/Anytype-0.46.8.AppImage
+[2025-06-02 10:36:30.606] [info]  Update downloaded: {
+   "version": "0.46.8",
+   "files": [
+      {
+         "url": "Anytype-0.46.8.AppImage",
+         "sha512": "F++IQA/+GWV9EFaZV7JiT7OITouvthshhUtto+4E/bKspSubt+RJnn2GNZsg4ZU+d0OqTlPxuiDUpQM7mHCm3w==",
+         "size": 227184575,
+         "blockMapSize": 237523
+      },
+      {
+         "url": "anytype_0.46.8_amd64.deb",
+         "sha512": "/spszv94lF4xp0f4LPdED9KPG8HolgKBCUkeVULky/3zjspT7tWWq1bBmYqh5rT3fS8PStP4yJsGlejQ7Pr94w==",
+         "size": 169133696
+      },
+      {
+         "url": "anytype_0.46.8_amd64.deb",
+         "sha512": "/spszv94lF4xp0f4LPdED9KPG8HolgKBCUkeVULky/3zjspT7tWWq1bBmYqh5rT3fS8PStP4yJsGlejQ7Pr94w==",
+         "size": 169133696
+      },
+      {
+         "url": "anytype_0.46.8_amd64.deb",
+         "sha512": "/spszv94lF4xp0f4LPdED9KPG8HolgKBCUkeVULky/3zjspT7tWWq1bBmYqh5rT3fS8PStP4yJsGlejQ7Pr94w==",
+         "size": 169133696
+      },
+      {
+         "url": "anytype-0.46.8.x86_64.rpm",
+         "sha512": "JoztQzsAKrtPFvkOJcQP3fM2eGBuOSJJf2YERlP915tWoKy90zHFDgpqFp3/dib8UqqQFEQ9PZrf2TsLiuZ1kQ==",
+         "size": 169447749
+      },
+      {
+         "url": "anytype-0.46.8.x86_64.rpm",
+         "sha512": "JoztQzsAKrtPFvkOJcQP3fM2eGBuOSJJf2YERlP915tWoKy90zHFDgpqFp3/dib8UqqQFEQ9PZrf2TsLiuZ1kQ==",
+         "size": 169447749
+      },
+      {
+         "url": "anytype-0.46.8.x86_64.rpm",
+         "sha512": "JoztQzsAKrtPFvkOJcQP3fM2eGBuOSJJf2YERlP915tWoKy90zHFDgpqFp3/dib8UqqQFEQ9PZrf2TsLiuZ1kQ==",
+         "size": 169447749
+      }
+   ],
+   "path": "Anytype-0.46.8.AppImage",
+   "sha512": "F++IQA/+GWV9EFaZV7JiT7OITouvthshhUtto+4E/bKspSubt+RJnn2GNZsg4ZU+d0OqTlPxuiDUpQM7mHCm3w==",
+   "releaseDate": "2025-05-27T17:42:08.952Z",
+   "downloadedFile": "/home/toprak/.cache/anytype-updater/pending/Anytype-0.46.8.AppImage"
+}
+[2025-06-02 13:15:40.201] [info]  [PowerMonitor] suspend
+[2025-06-02 13:15:40.201] [info]  [PowerMonitor] suspend
+[2025-06-02 14:19:12.983] [info]  [PowerMonitor] resume
+[2025-06-02 14:19:13.005] [info]  [PowerMonitor] resume
+[2025-06-02 15:55:24.857] [info]  closeMain: undefined
+[2025-06-02 17:38:56.606] [info]  [PowerMonitor] suspend
+[2025-06-02 17:38:56.607] [info]  [PowerMonitor] suspend
+[2025-06-02 17:39:28.964] [info]  [PowerMonitor] resume
+[2025-06-02 17:39:28.965] [info]  [PowerMonitor] resume
+[2025-06-02 17:41:23.330] [info]  [PowerMonitor] suspend
+[2025-06-02 17:41:23.331] [info]  [PowerMonitor] suspend
+[2025-06-02 17:41:31.992] [info]  [PowerMonitor] resume
+[2025-06-02 17:41:32.011] [info]  [PowerMonitor] resume
+[2025-06-02 17:41:35.533] [info]  [PowerMonitor] suspend
+[2025-06-02 17:41:35.534] [info]  [PowerMonitor] suspend
+[2025-06-03 12:06:23.931] [info]  [PowerMonitor] resume
+[2025-06-03 12:06:23.941] [info]  [PowerMonitor] resume
+[2025-06-03 12:09:23.452] [info]  [PowerMonitor] suspend
+[2025-06-03 12:09:23.455] [info]  [PowerMonitor] suspend
+[2025-06-03 12:38:54.977] [info]  [PowerMonitor] resume
+[2025-06-03 12:38:54.978] [info]  [PowerMonitor] resume
+[2025-06-03 12:50:14.371] [info]  [PowerMonitor] suspend
+[2025-06-03 12:50:14.371] [info]  [PowerMonitor] suspend
+[2025-06-03 13:55:53.975] [info]  [PowerMonitor] resume
+[2025-06-03 13:55:53.976] [info]  [PowerMonitor] resume
+[2025-06-03 14:12:58.917] [info]  [PowerMonitor] suspend
+[2025-06-03 14:12:58.919] [info]  [PowerMonitor] suspend
+[2025-06-03 14:43:02.948] [info]  [PowerMonitor] resume
+[2025-06-03 14:43:02.963] [info]  [PowerMonitor] resume
+[2025-06-03 14:55:43.653] [info]  [PowerMonitor] suspend
+[2025-06-03 14:55:43.654] [info]  [PowerMonitor] suspend
+[2025-06-03 15:32:57.985] [info]  [PowerMonitor] resume
+[2025-06-03 15:32:57.985] [info]  [PowerMonitor] resume
+[2025-06-03 15:46:21.980] [info]  [PowerMonitor] suspend
+[2025-06-03 15:46:21.981] [info]  [PowerMonitor] suspend
+[2025-06-03 15:50:48.979] [info]  [PowerMonitor] resume
+[2025-06-03 15:50:48.991] [info]  [PowerMonitor] resume
+[2025-06-03 16:02:54.679] [info]  [PowerMonitor] suspend
+[2025-06-03 16:02:54.680] [info]  [PowerMonitor] suspend
+[2025-06-03 16:03:53.977] [info]  [PowerMonitor] resume
+[2025-06-03 16:03:53.984] [info]  [PowerMonitor] resume
+[2025-06-03 16:04:42.918] [info]  [PowerMonitor] suspend
+[2025-06-03 16:04:42.919] [info]  [PowerMonitor] suspend
+[2025-06-03 16:05:53.993] [info]  [PowerMonitor] resume
+[2025-06-03 16:05:54.037] [info]  [PowerMonitor] resume
+[2025-06-03 16:07:02.712] [info]  [PowerMonitor] suspend
+[2025-06-03 16:07:02.715] [info]  [PowerMonitor] suspend
+[2025-06-03 16:22:17.986] [info]  [PowerMonitor] resume
+[2025-06-03 16:22:18.005] [info]  [PowerMonitor] resume
+[2025-06-03 16:22:18.669] [info]  [PowerMonitor] suspend
+[2025-06-03 16:22:18.669] [info]  [PowerMonitor] suspend
+[2025-06-03 16:23:25.360] [info]  [PowerMonitor] resume
+[2025-06-03 16:23:25.361] [info]  [PowerMonitor] resume
+[2025-06-03 16:23:25.441] [info]  [PowerMonitor] suspend
+[2025-06-03 16:23:25.451] [info]  [PowerMonitor] suspend
+[2025-06-03 16:31:10.964] [info]  [PowerMonitor] resume
+[2025-06-03 16:31:10.976] [info]  [PowerMonitor] resume
+[2025-06-03 17:22:31.309] [info]  [PowerMonitor] suspend
+[2025-06-03 17:22:31.311] [info]  [PowerMonitor] suspend
+[2025-06-03 17:45:07.985] [info]  [PowerMonitor] resume
+[2025-06-03 17:45:08.002] [info]  [PowerMonitor] resume
+[2025-06-03 18:06:25.300] [info]  [PowerMonitor] suspend
+[2025-06-03 18:06:25.301] [info]  [PowerMonitor] suspend
+[2025-06-03 19:43:18.969] [info]  [PowerMonitor] resume
+[2025-06-03 19:43:18.974] [info]  [PowerMonitor] resume
+[2025-06-03 20:38:47.951] [info]  [PowerMonitor] suspend
+[2025-06-03 20:38:47.952] [info]  [PowerMonitor] suspend
+[2025-06-03 22:05:21.961] [info]  [PowerMonitor] resume
+[2025-06-03 22:05:21.962] [info]  [PowerMonitor] resume
+[2025-06-03 22:18:22.336] [info]  [PowerMonitor] suspend
+[2025-06-03 22:18:22.336] [info]  [PowerMonitor] suspend
+[2025-06-03 22:19:51.949] [info]  [PowerMonitor] resume
+[2025-06-03 22:19:51.950] [info]  [PowerMonitor] resume
+[2025-06-03 22:29:13.578] [info]  second-instance
+[2025-06-03 22:29:13.585] [info]  [Api].exit, relaunch: false
+[2025-06-03 22:29:13.592] [info]  [Api].shutdown, relaunch: false
+[2025-06-03 22:42:02.732] [info]  before-quit
+[2025-06-03 22:42:02.745] [info]  [Api].exit, relaunch: false
+[2025-06-03 22:42:02.963] [info]  [Api].shutdown, relaunch: false
+[2025-06-03 22:58:06.402] [info]  Checking for update
+[2025-06-03 22:58:06.405] [info]  Checking for update
+[2025-06-03 22:58:06.550] [info]  Found version 0.46.8 (url: Anytype-0.46.8.AppImage, anytype_0.46.8_amd64.deb, anytype_0.46.8_amd64.deb, anytype_0.46.8_amd64.deb, anytype-0.46.8.x86_64.rpm, anytype-0.46.8.x86_64.rpm, anytype-0.46.8.x86_64.rpm)
+[2025-06-03 22:58:06.551] [info]  Update available: {
+   "version": "0.46.8",
+   "files": [
+      {
+         "url": "Anytype-0.46.8.AppImage",
+         "sha512": "F++IQA/+GWV9EFaZV7JiT7OITouvthshhUtto+4E/bKspSubt+RJnn2GNZsg4ZU+d0OqTlPxuiDUpQM7mHCm3w==",
+         "size": 227184575,
+         "blockMapSize": 237523
+      },
+      {
+         "url": "anytype_0.46.8_amd64.deb",
+         "sha512": "/spszv94lF4xp0f4LPdED9KPG8HolgKBCUkeVULky/3zjspT7tWWq1bBmYqh5rT3fS8PStP4yJsGlejQ7Pr94w==",
+         "size": 169133696
+      },
+      {
+         "url": "anytype_0.46.8_amd64.deb",
+         "sha512": "/spszv94lF4xp0f4LPdED9KPG8HolgKBCUkeVULky/3zjspT7tWWq1bBmYqh5rT3fS8PStP4yJsGlejQ7Pr94w==",
+         "size": 169133696
+      },
+      {
+         "url": "anytype_0.46.8_amd64.deb",
+         "sha512": "/spszv94lF4xp0f4LPdED9KPG8HolgKBCUkeVULky/3zjspT7tWWq1bBmYqh5rT3fS8PStP4yJsGlejQ7Pr94w==",
+         "size": 169133696
+      },
+      {
+         "url": "anytype-0.46.8.x86_64.rpm",
+         "sha512": "JoztQzsAKrtPFvkOJcQP3fM2eGBuOSJJf2YERlP915tWoKy90zHFDgpqFp3/dib8UqqQFEQ9PZrf2TsLiuZ1kQ==",
+         "size": 169447749
+      },
+      {
+         "url": "anytype-0.46.8.x86_64.rpm",
+         "sha512": "JoztQzsAKrtPFvkOJcQP3fM2eGBuOSJJf2YERlP915tWoKy90zHFDgpqFp3/dib8UqqQFEQ9PZrf2TsLiuZ1kQ==",
+         "size": 169447749
+      },
+      {
+         "url": "anytype-0.46.8.x86_64.rpm",
+         "sha512": "JoztQzsAKrtPFvkOJcQP3fM2eGBuOSJJf2YERlP915tWoKy90zHFDgpqFp3/dib8UqqQFEQ9PZrf2TsLiuZ1kQ==",
+         "size": 169447749
+      }
+   ],
+   "path": "Anytype-0.46.8.AppImage",
+   "sha512": "F++IQA/+GWV9EFaZV7JiT7OITouvthshhUtto+4E/bKspSubt+RJnn2GNZsg4ZU+d0OqTlPxuiDUpQM7mHCm3w==",
+   "releaseDate": "2025-05-27T17:42:08.952Z"
+}
+[2025-06-03 22:58:06.551] [info]  Downloading update from Anytype-0.46.8.AppImage, anytype_0.46.8_amd64.deb, anytype_0.46.8_amd64.deb, anytype_0.46.8_amd64.deb, anytype-0.46.8.x86_64.rpm, anytype-0.46.8.x86_64.rpm, anytype-0.46.8.x86_64.rpm
+[2025-06-03 22:58:06.553] [debug] updater cache dir: /home/toprak/.cache/anytype-updater
+[2025-06-03 22:58:06.553] [debug] checkForUpdatesAndNotify called, downloadPromise is null
+[2025-06-03 22:58:07.625] [info]  Update has already been downloaded to /home/toprak/.cache/anytype-updater/pending/Anytype-0.46.8.AppImage).
+[2025-06-03 22:58:07.628] [info]  Update downloaded: {
+   "version": "0.46.8",
+   "files": [
+      {
+         "url": "Anytype-0.46.8.AppImage",
+         "sha512": "F++IQA/+GWV9EFaZV7JiT7OITouvthshhUtto+4E/bKspSubt+RJnn2GNZsg4ZU+d0OqTlPxuiDUpQM7mHCm3w==",
+         "size": 227184575,
+         "blockMapSize": 237523
+      },
+      {
+         "url": "anytype_0.46.8_amd64.deb",
+         "sha512": "/spszv94lF4xp0f4LPdED9KPG8HolgKBCUkeVULky/3zjspT7tWWq1bBmYqh5rT3fS8PStP4yJsGlejQ7Pr94w==",
+         "size": 169133696
+      },
+      {
+         "url": "anytype_0.46.8_amd64.deb",
+         "sha512": "/spszv94lF4xp0f4LPdED9KPG8HolgKBCUkeVULky/3zjspT7tWWq1bBmYqh5rT3fS8PStP4yJsGlejQ7Pr94w==",
+         "size": 169133696
+      },
+      {
+         "url": "anytype_0.46.8_amd64.deb",
+         "sha512": "/spszv94lF4xp0f4LPdED9KPG8HolgKBCUkeVULky/3zjspT7tWWq1bBmYqh5rT3fS8PStP4yJsGlejQ7Pr94w==",
+         "size": 169133696
+      },
+      {
+         "url": "anytype-0.46.8.x86_64.rpm",
+         "sha512": "JoztQzsAKrtPFvkOJcQP3fM2eGBuOSJJf2YERlP915tWoKy90zHFDgpqFp3/dib8UqqQFEQ9PZrf2TsLiuZ1kQ==",
+         "size": 169447749
+      },
+      {
+         "url": "anytype-0.46.8.x86_64.rpm",
+         "sha512": "JoztQzsAKrtPFvkOJcQP3fM2eGBuOSJJf2YERlP915tWoKy90zHFDgpqFp3/dib8UqqQFEQ9PZrf2TsLiuZ1kQ==",
+         "size": 169447749
+      },
+      {
+         "url": "anytype-0.46.8.x86_64.rpm",
+         "sha512": "JoztQzsAKrtPFvkOJcQP3fM2eGBuOSJJf2YERlP915tWoKy90zHFDgpqFp3/dib8UqqQFEQ9PZrf2TsLiuZ1kQ==",
+         "size": 169447749
+      }
+   ],
+   "path": "Anytype-0.46.8.AppImage",
+   "sha512": "F++IQA/+GWV9EFaZV7JiT7OITouvthshhUtto+4E/bKspSubt+RJnn2GNZsg4ZU+d0OqTlPxuiDUpQM7mHCm3w==",
+   "releaseDate": "2025-05-27T17:42:08.952Z",
+   "downloadedFile": "/home/toprak/.cache/anytype-updater/pending/Anytype-0.46.8.AppImage"
+}
+[2025-06-03 23:24:21.053] [info]  closeMain: undefined
+[2025-06-03 23:24:47.527] [info]  [PowerMonitor] suspend
+[2025-06-03 23:24:47.529] [info]  [PowerMonitor] suspend
+[2025-06-04 10:06:49.976] [info]  [PowerMonitor] resume
+[2025-06-04 10:06:49.979] [info]  [PowerMonitor] resume
+[2025-06-04 10:09:26.477] [info]  second-instance
+[2025-06-04 10:09:26.486] [info]  [Api].exit, relaunch: false
+[2025-06-04 10:09:26.500] [info]  [Api].shutdown, relaunch: false
+[2025-06-04 10:16:13.190] [info]  [PowerMonitor] suspend
+[2025-06-04 10:16:13.190] [info]  [PowerMonitor] suspend
+[2025-06-04 10:27:30.986] [info]  [PowerMonitor] resume
+[2025-06-04 10:27:30.987] [info]  [PowerMonitor] resume
+[2025-06-04 10:27:41.693] [info]  [PowerMonitor] suspend
+[2025-06-04 10:27:41.694] [info]  [PowerMonitor] suspend
+[2025-06-04 10:29:48.949] [info]  [PowerMonitor] resume
+[2025-06-04 10:29:48.951] [info]  [PowerMonitor] resume
+[2025-06-04 10:30:28.397] [info]  closeMain: undefined

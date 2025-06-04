@@ -1,0 +1,250 @@
+{
+	"sidebar": {
+		"width": 336,
+		"isClosed": false
+	},
+	"color": "orange",
+	"bgColor": "orange",
+	"accountId": "ABJ67wicb7BY6vDy18ykx4abDK1Ui3pCRt56uoJ1dc5UWcrn",
+	"space": {
+		"bafyreiflbclj756v2nwa6avbwsaxatssrznyrlkvyl2b5x44awdlhixgxq.swffpecz719m": {
+			"pinnedTypes": [
+				"bafyreiecxb2nt6qhdx2ujvwvhzpujgyb3m5lkue6moqbc2svs44scvixhi",
+				"bafyreifaemwhfekalkdakx4776pgx3a4do67g5vhh3ze4hb7i2dkytjx3i",
+				"bafyreiasyfenafcferrla6tlv5y7ojbkzm52os2c3w6jdfisqfgadqphqi",
+				"bafyreie57beiil6abhwjucdvxe6hwptdiejm3mib4gtvhkzgmtgcpkrexm",
+				"bafyreicus3w3hci5qzuqfbatfzc7pkwjr4ncau6akf3axcb5wich6gy3aq",
+				"bafyreie25oyxcvmzfj7npnxpncjrxqcslrqslojn2d2whu7mbebbz4ijym",
+				"bafyreiesfjeozqgn7w7bfg4fxj5rbdlmybr4axdjygvlear65mmsxxxani"
+			],
+			"toggle": {
+				"widget": []
+			},
+			"lastOpenedObject": {
+				"1": {
+					"id": "bafyreihe4j76m7weswxlv74sjg4ygqbxsokg6goufc4arp4nsyptqcprlm",
+					"layout": 0
+				}
+			},
+			"focus": {
+				"bafyreihe4j76m7weswxlv74sjg4ygqbxsokg6goufc4arp4nsyptqcprlm": {
+					"focused": "",
+					"range": {
+						"from": 0,
+						"to": 0
+					}
+				}
+			}
+		},
+		"bafyreiemtbunjhw25ep2n7qy3v5hkwaer3gfiq4mjn6jzoob4567ttyybi.swffpecz719m": {
+			"pinnedTypes": [
+				"bafyreih7kbsrc4l46lfysu3cha5hdog2ik7yred7iyz2cu5gadpnk3lmnq",
+				"bafyreih6yi6cmna23umb3oz6uxcgisp5zobki6dlylagaabitrjvfq3t5i",
+				"bafyreig5t7hrpbbduzdq3tiiowosnixvyaonoqp5ptmw3jduwwmkqk6otu",
+				"bafyreiciawshauadio6sian2h2ccvm2rof4u5it5xczhiilcmdwsknpx7y",
+				"bafyreifusjn4rynbfsuscss4x47557eqtlupom6gspia3s6btwxvzlybsq",
+				"bafyreiahfcbaudmywpmp7yz7xgmsemnnoejyhceevkas57plviwvoqfcby",
+				"bafyreiet5qs726xsn34f26p33pe5jhqyap2gtoh6gdghagdfip7762hope"
+			],
+			"toggle": {
+				"widget": []
+			},
+			"lastOpenedObject": {
+				"1": {
+					"id": "bafyreihtej645k6qjc2mop5cmdsg73ut6a7kwu4aokwl3eqxyj2vdrmfh4",
+					"layout": 0
+				}
+			},
+			"focus": {
+				"bafyreib5v76jjurb6vwqf76prj524445rzhyytizafsb7tuvrsctucj52y": {
+					"focused": "",
+					"range": {
+						"from": 0,
+						"to": 0
+					}
+				},
+				"bafyreihtej645k6qjc2mop5cmdsg73ut6a7kwu4aokwl3eqxyj2vdrmfh4": {
+					"focused": "683ff19326926611ff5fc543",
+					"range": {
+						"from": 0,
+						"to": 0
+					}
+				},
+				"bafyreifjde7ougsdxo5s2c7g7ixwkj5tviohrnwlhsqryzdszq2jifgt5a": {
+					"focused": "",
+					"range": {
+						"from": 0,
+						"to": 0
+					}
+				},
+				"bafyreifnkx6ar6quyqrtihvkxsjrnhz3z2bbl4pgykh4lwwbydrv7ahq24": {
+					"focused": "title",
+					"range": {
+						"from": 5,
+						"to": 5
+					}
+				},
+				"bafyreid5hbjfwnbw5xla6zmy5gyrta2w7tcoh37xcst3b7qg5ywxrurkfq": {
+					"focused": "",
+					"range": {
+						"from": 0,
+						"to": 0
+					}
+				},
+				"bafyreiadnuw4ihpqvdfvohxzmkehaiio3l732ctqfwbzdv7l6m5ijl4kda": {
+					"focused": "",
+					"range": {
+						"from": 0,
+						"to": 0
+					}
+				}
+			},
+			"scroll": {
+				"editor": {
+					"bafyreid5hbjfwnbw5xla6zmy5gyrta2w7tcoh37xcst3b7qg5ywxrurkfq": 224,
+					"bafyreihtej645k6qjc2mop5cmdsg73ut6a7kwu4aokwl3eqxyj2vdrmfh4": 121,
+					"bafyreiadnuw4ihpqvdfvohxzmkehaiio3l732ctqfwbzdv7l6m5ijl4kda": 0
+				}
+			}
+		},
+		"bafyreic7paab3qzhfnlxugk6qylwx2pu4w23ypn3ozjepc5bvsawvaqbiq.swffpecz719m": {
+			"pinnedTypes": [
+				"bafyreigx4rksbexwwezsijwlwei7vcxnzt73tmpcaugjvufqoob6q74wpi",
+				"bafyreiefua75p5tnmo43di36wffse23wtfmvxef5qhqun6hx4laycd6nki",
+				"bafyreigu7ocrtje6fw7jaqvf75umq5fibk2jrmtf5zx52g44a3n5iqdgde",
+				"bafyreidi3v5j7ceo3eh5bnhp43tfmen63by6jbmm5xsdyxsqx7xsofh3lm",
+				"bafyreidbp67ozn6ki622ebhldp42noa7g64ggusygfszbntfsqc57ckljy",
+				"bafyreid7cxqsoluoq4vpnvva47otcgdv3w6jktfm6qeybufthcil4xol5q",
+				"bafyreiaavh7hvg4dck4nrider4coisx37dyxdmviyr2iqfkvez3ksco6p4"
+			],
+			"toggle": {
+				"widget": []
+			},
+			"lastOpenedObject": {
+				"1": {
+					"id": "bafyreihm5won2rc3lgyqu4uqbhx5buppim3ecvwycdzyh2oj3mgmbpymlu",
+					"layout": 9
+				}
+			},
+			"focus": {
+				"bafyreiamntfe6e7onjcszoxjdwkxpbp4lrcri75e565guff5c7ftlduviy": {
+					"focused": "",
+					"range": {
+						"from": 0,
+						"to": 0
+					}
+				},
+				"bafyreib5cwu2gsw77tmb7pe7iqchdjqcaimx4aln5bppbqetc7j46qssj4": {
+					"focused": "",
+					"range": {
+						"from": 0,
+						"to": 0
+					}
+				},
+				"bafyreihtb7lnsznp3obglrsg724zx4yny34q3y7geu4wodazz2gib47rze": {
+					"focused": "",
+					"range": {
+						"from": 0,
+						"to": 0
+					}
+				},
+				"bafyreibs3n6bl4kxaeupmtx7wsp246byyhbbbnyq56mt36lk3acb2krege": {
+					"focused": "",
+					"range": {
+						"from": 0,
+						"to": 0
+					}
+				},
+				"bafyreie5kjwoopcwfaonbw3bq3rxbnanwebhjksykl3vavqcf6larrw5va": {
+					"focused": "",
+					"range": {
+						"from": 0,
+						"to": 0
+					}
+				},
+				"bafyreieqs5e4q46hy3xysekqlpxwootyz3lbgjfmknxnl6y4hy777y3cqu": {
+					"focused": "",
+					"range": {
+						"from": 0,
+						"to": 0
+					}
+				},
+				"bafyreihs46cdol53ef3utq7ztdk4kwhtzl2ybx4ynmqsvimfzmvhibhvhq": {
+					"focused": "683f59bc26926611ff5fc520",
+					"range": {
+						"from": 0,
+						"to": 0
+					}
+				},
+				"bafyreihm5won2rc3lgyqu4uqbhx5buppim3ecvwycdzyh2oj3mgmbpymlu": {
+					"focused": "",
+					"range": {
+						"from": 0,
+						"to": 0
+					}
+				}
+			},
+			"scroll": {
+				"editor": {
+					"bafyreib5cwu2gsw77tmb7pe7iqchdjqcaimx4aln5bppbqetc7j46qssj4": 0
+				}
+			}
+		}
+	},
+	"account": {
+		"ABJ67wicb7BY6vDy18ykx4abDK1Ui3pCRt56uoJ1dc5UWcrn": {
+			"spaceId": "bafyreiemtbunjhw25ep2n7qy3v5hkwaer3gfiq4mjn6jzoob4567ttyybi.swffpecz719m",
+			"spaceOrder": [
+				"bafyreic7paab3qzhfnlxugk6qylwx2pu4w23ypn3ozjepc5bvsawvaqbiq.swffpecz719m",
+				"bafyreiceozqgrkqnzgv4n6jhqgna3gz6vmcfrviar7q2lsmud4henul5ey",
+				"bafyreifo23ej7sexgmc3py37agya7xtazneqsj5twx2zxhj4id7krlpjx4",
+				"gallery"
+			]
+		}
+	},
+	"showRelativeDates": true,
+	"primitivesOnboarding": true,
+	"onboarding": [
+		"objectDescriptionButton",
+		"typeResetLayout",
+		"basics",
+		"templateSelect",
+		"inlineCollection",
+		"setSettings",
+		"collaboration",
+		"objectCreationStart",
+		"objectCreationFinish",
+		"collections",
+		"mainGraph"
+	],
+	"survey": {
+		"2": {
+			"time": 1749022192
+		}
+	},
+	"menuSmile": {
+		"recent": [
+			{
+				"id": "notebook_with_decorative_cover",
+				"skin": 1
+			}
+		],
+		"skin": 1
+	},
+	"graphDataview": {
+		"icon": true,
+		"preview": true,
+		"orphan": true,
+		"marker": true,
+		"label": true,
+		"relation": true,
+		"files": false,
+		"link": true,
+		"local": false,
+		"cluster": false,
+		"filter": "",
+		"depth": 1,
+		"filterTypes": [],
+		"types": true
+	}
+}
