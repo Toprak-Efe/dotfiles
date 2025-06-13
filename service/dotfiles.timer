@@ -1,0 +1,10 @@
+[Unit]
+Description=Run dotfiles.service every 24 hours
+
+[Timer]
+OnCalendar=daily
+Persistent=true
+
+[Install]
+WantedBy=timers.target
+

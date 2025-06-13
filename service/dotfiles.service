@@ -1,0 +1,8 @@
+[Unit]
+Description=Update the dotfiles repository.
+
+[Service]
+User=toprak
+Type=oneshot
+ExecStart=/usr/bin/update.sh
+WorkingDirectory=
