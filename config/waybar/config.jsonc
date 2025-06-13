@@ -15,15 +15,13 @@
     ],
 
     "modules-right": [
-        "pulseaudio",
+        "battery",
         "clock"
     ],
-
     "clock": {
-        "format": "[ {:%H:%M}]",
+        "format": "[<span font='Font Awesome 5 Free 10'> </span>{:%H:%M}]",
         "tooltip": false,
     },
-
     "hyprland/window": {
         "format": "{initialTitle}",
         "rewrite": {
@@ -40,41 +38,40 @@
         "format":  "[{name}:{icon}]",
         "format-icons": {
             "1": "",
-			"2": "",
-			"active": "",
-			"default": ""
+            "2": "",
+            "active": "",
+            "default": ""
         },
         "on-click": "activate",
         "persistent-workspaces": {
-      	    "1": [],
-      	    "2": [],
-    	}
+            "1": [],
+            "2": [],
+        }
     },
-    
+
     "hyprland/workspaces#wright": {
         "ignore-workspaces": ["1", "2"],
         "format":  "[{name}:{icon}]",
         "format-icons": {
-			"3": "",
-			"4": "",
-			"active": "",
-			"default": ""
+            "3": "",
+            "4": "",
+            "active": "",
+            "default": ""
         },
         "on-click": "activate",
         "persistent-workspaces": {
-      		"3": [],
-      		"4": [],
-    	}
+            "3": [],
+            "4": [],
+        }
     },
-    
     "network": {
         "interface": "wlan0",
         "format": "{ifname}",
-        "format-wifi": "[󰖩 {essid}]",
-        "format-eth": "[󰈀 {essid}]",
+        "format-wifi": "[<span font='Font Awesome 5 Free 12'>󰖩 </span>{essid}]",
+        "format-eth": "[<span font='Font Awesome 5 Free 12'>󰈀 </span>{essid}]",
         "format-disconnected": "[ Disconnected]",
+        "on-click": "iwmenu -l rofi"
     },
-
     "pulseaudio": {
         "scroll-step": 5,
         "max-volume": 150,
@@ -84,7 +81,18 @@
         "nospacing": 1,
         "tooltip": false
     },
-
+    "battery": {
+        "format": "[<span font='Font Awesome 5 Free 12'>{icon}</span> {capacity:03}%]",
+        "format-icons": ["", "", "", "", ""],
+        "format-charging": "[<span font='Font Awesome 5 Free 12'></span><span font='Font Awesome 5 Free 12'>{icon}</span> {capacity:03}%]",
+        "format-full": "[<span font='Font Awesome 5 Free 12'></span> {capacity:03}%]",
+        "interval": 30,
+        "states": {
+            "warning": 25,
+            "critical": 10
+        },
+        "tooltip": false,
+    },
     "custom/unconscious": {
         "format": "[{text}]", 
         "exec": "$HOME/.config/waybar/scripts/unconscious.sh 2> /dev/null",
@@ -94,6 +102,5 @@
         "tooltip": false,
         "signal": 8
     }
-
 }
 
