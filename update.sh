@@ -8,6 +8,7 @@ for config in $(ls "$PWD/config"); do
     if [[ $REPLY =~ ^[Yy]$ ]]
     then
         cp -r "$PWD/config/$config" "$CFG_DIR/$config"
+        echo "Copied $config."
         # do dangerous stuff
     fi
 done
