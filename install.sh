@@ -1,13 +1,16 @@
 #!/bin/bash
 
-SCRIPTS_DIR="scripts"
+CFG_DIR="${XDG_CACHE_HOME:-$HOME/.config}"
 BIN_DIR="${XDG_CACHE_HOME:-$HOME/.local/bin}"
 SYM_DIR="/usr/bin"
 
-for filepath in "$PWD/$SCRIPTS_DIR"/*; do
-    filename=$(basename "$filepath")
-    chmod +rx "$filepath"
-    cp "$filepath" "$BIN_DIR/"
-    sudo ln -fs "$BIN_DIR/$filename" "$SYM_DIR/$filename"
+for script in $(ls "$PWD/scripts"); do
+    chmod +rx "$PWD/scripts/$script"
+    cp "$PWD/scripts/$script" "$BIN_DIR/"
+    sudo ln -fs "$BIN_DIR/$script" "$SYM_DIR/$script"
+done
+
+for config in $(ls "$PWD/config"); do
+    cp -r "$PWD/config/$config" "$CFG_DIR/$config"
 done
 
