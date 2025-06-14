@@ -17,7 +17,7 @@ config.background = {
 }
 config.front_end = "OpenGL"
 config.window_close_confirmation = 'NeverPrompt'
-config.enable_wayland = true
+config.enable_wayland = false 
 config.color_scheme = 'Batman'
 config.enable_tab_bar = false
 config.font_size = 9
