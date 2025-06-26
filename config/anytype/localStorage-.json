@@ -51,7 +51,7 @@
 			},
 			"lastOpenedObject": {
 				"1": {
-					"id": "bafyreihtej645k6qjc2mop5cmdsg73ut6a7kwu4aokwl3eqxyj2vdrmfh4",
+					"id": "bafyreibgf7tw27itfenriqtiw6zttgojo5qqhfek334lpwlx2d2duokoma",
 					"layout": 0
 				}
 			},
@@ -64,7 +64,7 @@
 					}
 				},
 				"bafyreihtej645k6qjc2mop5cmdsg73ut6a7kwu4aokwl3eqxyj2vdrmfh4": {
-					"focused": "683ff19326926611ff5fc543",
+					"focused": "",
 					"range": {
 						"from": 0,
 						"to": 0
@@ -97,6 +97,13 @@
 						"from": 0,
 						"to": 0
 					}
+				},
+				"bafyreibgf7tw27itfenriqtiw6zttgojo5qqhfek334lpwlx2d2duokoma": {
+					"focused": "",
+					"range": {
+						"from": 0,
+						"to": 0
+					}
 				}
 			},
 			"scroll": {
@@ -122,7 +129,7 @@
 			},
 			"lastOpenedObject": {
 				"1": {
-					"id": "bafyreihm5won2rc3lgyqu4uqbhx5buppim3ecvwycdzyh2oj3mgmbpymlu",
+					"id": "bafyreify6fj4kca7qjwjspo57v6k436hwrykenn4tkexcghikjmhkrdlru",
 					"layout": 9
 				}
 			},
@@ -135,7 +142,7 @@
 					}
 				},
 				"bafyreib5cwu2gsw77tmb7pe7iqchdjqcaimx4aln5bppbqetc7j46qssj4": {
-					"focused": "",
+					"focused": "684dc78ed87fdea68bdbf353",
 					"range": {
 						"from": 0,
 						"to": 0
@@ -170,13 +177,34 @@
 					}
 				},
 				"bafyreihs46cdol53ef3utq7ztdk4kwhtzl2ybx4ynmqsvimfzmvhibhvhq": {
-					"focused": "683f59bc26926611ff5fc520",
+					"focused": "684204a9d87fde12ec7a72df",
 					"range": {
 						"from": 0,
 						"to": 0
 					}
 				},
 				"bafyreihm5won2rc3lgyqu4uqbhx5buppim3ecvwycdzyh2oj3mgmbpymlu": {
+					"focused": "683f59c526926611ff5fc530",
+					"range": {
+						"from": 0,
+						"to": 0
+					}
+				},
+				"bafyreiadqfp26c6ungeqnthm2mg45hib4smogmfacsyf6xpq4yqwmyzkdy": {
+					"focused": "684dc75bd87fdea68bdbf34f",
+					"range": {
+						"from": 0,
+						"to": 0
+					}
+				},
+				"bafyreibc5jot2dyhxnw2pf3s3phcsigaxln7ichsyczhbk7plr5d7hxvr4": {
+					"focused": "684dc78ed87fdea68bdbf353",
+					"range": {
+						"from": 0,
+						"to": 0
+					}
+				},
+				"bafyreify6fj4kca7qjwjspo57v6k436hwrykenn4tkexcghikjmhkrdlru": {
 					"focused": "",
 					"range": {
 						"from": 0,
@@ -189,13 +217,84 @@
 					"bafyreib5cwu2gsw77tmb7pe7iqchdjqcaimx4aln5bppbqetc7j46qssj4": 0
 				}
 			}
+		},
+		"bafyreidznkzeygldk6enct5efkb7kw6fty63nf2yqsopjim5mn7a3casbi.swffpecz719m": {
+			"pinnedTypes": [
+				"bafyreign3y7ddzkpqwtvq64dmzb6mdplnpntekw5kphfotgdyabqlvso5q",
+				"bafyreidtuni2jeraerzq4ubksvm74mzpvmnmnlb7hh3y3hqa4x5mvmeifi",
+				"bafyreifuh4b2orqbyugogs74qt3tte4iyfb263vqh6oixe764ryxqsbhni",
+				"bafyreidmsxl572lxffyy2x24ubld3qq6ed5hdpmu3eohhzx752ki5xa4tu",
+				"bafyreicfgcnr752zn7qjgagcso3bpkxzmec4dwckarfidumltbfqc5f5cm",
+				"bafyreihevl5vpl4jemlnwimupli4ekg6labx3efdt56kqy4hygsqqdygau",
+				"bafyreid46ore7lqpkcr4vqpgkil5riey776442xwzpijphnxxc4ondjeai"
+			],
+			"toggle": {
+				"widget": []
+			},
+			"lastOpenedObject": {
+				"1": {
+					"id": "bafyreib6so4ouneie3obqtpre2l4dloj7u5vtmdozmli5pqa3rbuhj4zgu",
+					"layout": 0
+				}
+			},
+			"focus": {
+				"bafyreielb644msqpthen55sqhcmbj4wloeboegnpfeg3n6t3jscv3mkoe4": {
+					"focused": "",
+					"range": {
+						"from": 0,
+						"to": 0
+					}
+				},
+				"bafyreib5cxuiyqijmujijfizcwr4t6ltpon5hydnpugafsdgpuygrybp6u": {
+					"focused": "684e994ed87fdea68bdbf37f",
+					"range": {
+						"from": 0,
+						"to": 0
+					}
+				},
+				"bafyreihxmwnouvgq7qnba2l2xd26np4v3ichr47d3cztit62co4y74h2ay": {
+					"focused": "",
+					"range": {
+						"from": 0,
+						"to": 0
+					}
+				},
+				"bafyreib6so4ouneie3obqtpre2l4dloj7u5vtmdozmli5pqa3rbuhj4zgu": {
+					"focused": "684eb20cd87fdea68bdbf395",
+					"range": {
+						"from": 17,
+						"to": 17
+					}
+				},
+				"bafyreigexr2cju6i5ayvze2vpfdsvbkkjecccg2dvzrc5zaedj2yjdpgxy": {
+					"focused": "",
+					"range": {
+						"from": 0,
+						"to": 0
+					}
+				},
+				"bafyreibjydm7ab5ptq2dqljmr6snpcs2lk623mmksmgl2qjz7xqqjcv3hi": {
+					"focused": "",
+					"range": {
+						"from": 0,
+						"to": 0
+					}
+				}
+			},
+			"scroll": {
+				"editor": {
+					"bafyreib6so4ouneie3obqtpre2l4dloj7u5vtmdozmli5pqa3rbuhj4zgu": 61,
+					"bafyreib5cxuiyqijmujijfizcwr4t6ltpon5hydnpugafsdgpuygrybp6u": 0
+				}
+			}
 		}
 	},
 	"account": {
 		"ABJ67wicb7BY6vDy18ykx4abDK1Ui3pCRt56uoJ1dc5UWcrn": {
-			"spaceId": "bafyreiemtbunjhw25ep2n7qy3v5hkwaer3gfiq4mjn6jzoob4567ttyybi.swffpecz719m",
+			"spaceId": "bafyreidznkzeygldk6enct5efkb7kw6fty63nf2yqsopjim5mn7a3casbi.swffpecz719m",
 			"spaceOrder": [
-				"bafyreic7paab3qzhfnlxugk6qylwx2pu4w23ypn3ozjepc5bvsawvaqbiq.swffpecz719m",
+				"bafyreidznkzeygldk6enct5efkb7kw6fty63nf2yqsopjim5mn7a3casbi.swffpecz719m",
+				"bafyreidlimw4n3fkjsnkivlelm5l2upqrsltuu5hadrpmshhb6762tjqpm",
 				"bafyreiceozqgrkqnzgv4n6jhqgna3gz6vmcfrviar7q2lsmud4henul5ey",
 				"bafyreifo23ej7sexgmc3py37agya7xtazneqsj5twx2zxhj4id7krlpjx4",
 				"gallery"
@@ -218,18 +317,34 @@
 		"mainGraph"
 	],
 	"survey": {
+		"0": {
+			"complete": true
+		},
 		"2": {
-			"time": 1749022192
+			"time": 1750917318
 		}
 	},
 	"menuSmile": {
 		"recent": [
 			{
+				"id": "robot_face",
+				"skin": 1
+			},
+			{
+				"id": "mechanical_arm",
+				"skin": 1
+			},
+			{
+				"id": "gear",
+				"skin": 1
+			},
+			{
 				"id": "notebook_with_decorative_cover",
 				"skin": 1
 			}
 		],
-		"skin": 1
+		"skin": 1,
+		"tab": 2
 	},
 	"graphDataview": {
 		"icon": true,

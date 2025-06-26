@@ -1,29 +1,9 @@
-2025/06/02-10:26:19.800 477f Creating DB /home/toprak/.config/anytype/Local Storage/leveldb since it was missing.
-2025/06/02-10:26:19.879 477f Reusing MANIFEST /home/toprak/.config/anytype/Local Storage/leveldb/MANIFEST-000001
-2025/06/02-15:03:33.165 477f Level-0 table #5: started
-2025/06/02-15:03:33.176 477f Level-0 table #5: 15508 bytes OK
-2025/06/02-15:03:33.180 477f Delete type=0 #3
-2025/06/02-15:34:41.524 4780 Level-0 table #7: started
-2025/06/02-15:34:41.536 4780 Level-0 table #7: 13620 bytes OK
-2025/06/02-15:34:41.540 4780 Delete type=0 #4
-2025/06/03-15:51:27.818 477f Level-0 table #9: started
-2025/06/03-15:51:27.830 477f Level-0 table #9: 16318 bytes OK
-2025/06/03-15:51:27.834 477f Delete type=0 #6
-2025/06/03-22:32:24.504 4780 Level-0 table #11: started
-2025/06/03-22:32:24.515 4780 Level-0 table #11: 15782 bytes OK
-2025/06/03-22:32:24.520 4780 Delete type=0 #8
-2025/06/03-22:36:11.264 477f Level-0 table #13: started
-2025/06/03-22:36:11.278 477f Level-0 table #13: 16550 bytes OK
-2025/06/03-22:36:11.283 477f Delete type=0 #10
-2025/06/03-22:38:54.158 477f Level-0 table #15: started
-2025/06/03-22:38:54.169 477f Level-0 table #15: 14428 bytes OK
-2025/06/03-22:38:54.174 477f Delete type=0 #12
-2025/06/03-22:38:54.174 477f Compacting 4@0 + 1@1 files
-2025/06/03-22:38:54.178 477f Generated table #16@0: 20 keys, 1991 bytes
-2025/06/03-22:38:54.178 477f Compacted 4@0 + 1@1 files => 1991 bytes
-2025/06/03-22:38:54.183 477f compacted to: files[ 0 1 1 0 0 0 0 ]
-2025/06/03-22:38:54.183 477f Delete type=2 #15
-2025/06/03-22:38:54.183 477f Delete type=2 #11
-2025/06/03-22:38:54.183 477f Delete type=2 #13
-2025/06/03-22:38:54.183 477f Delete type=2 #7
-2025/06/03-22:38:54.183 477f Delete type=2 #9
+2025/06/16-12:39:40.884 61f4 Reusing MANIFEST /home/toprak/.config/anytype/Local Storage/leveldb/MANIFEST-000001
+2025/06/16-12:39:40.950 61f4 Recovering log #28
+2025/06/16-12:39:40.951 61f4 Reusing old log /home/toprak/.config/anytype/Local Storage/leveldb/000028.log 
+2025/06/16-19:45:36.018 61f5 Level-0 table #32: started
+2025/06/16-19:45:36.030 61f5 Level-0 table #32: 15889 bytes OK
+2025/06/16-19:45:36.036 61f5 Delete type=0 #28
+2025/06/17-10:34:43.955 61f5 Level-0 table #34: started
+2025/06/17-10:34:43.970 61f5 Level-0 table #34: 16442 bytes OK
+2025/06/17-10:34:43.976 61f5 Delete type=0 #31
